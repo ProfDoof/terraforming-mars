@@ -18,6 +18,7 @@ pid
 .eslintcache
 tsconfig.tsbuildinfo
 assets/locales
+.direnv
 
 # Local Packages
 node_modules/
